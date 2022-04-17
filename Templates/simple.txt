@@ -9,4 +9,5 @@
 <p></p><center>{{ [X] desc : linebreak }}</center>
 <p><br>
 {$}
+[[ nfo ]]
 [[ nzb_hidden ]]
