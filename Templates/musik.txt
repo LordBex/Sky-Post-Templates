@@ -1,6 +1,6 @@
 <p class="text-center"><span style="font-family:'Lucida Sans Unicode', sans-serif;"></span></p>
 <h2 class="text-center">
-	{{ nzb-file }}
+	{{ nzb-file : spacer }}
 </h2>
 <p class="text-center"><img src="{{ cover }}" width="300" height="300"></p>
 <h3 class="text-center">
