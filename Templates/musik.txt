@@ -20,5 +20,5 @@
 <p></p>
 <p></p>
 <p class="text-center"><a href="https://www.discogs.com/de/master/{{ discogs_id }}"><img src="https://sky-of-use.net/index.php?attachment/939-discogs-png/" alt="939-discogs-png"> </a>
-<a href="{{ bandcamp }}"><img src="https://sky-of-use.net/index.php?attachment/938-bandcamp-png/" alt="938-bandcamp-png"> </a></p>
+<a href="{{ [] bandcamp }}"><img src="https://sky-of-use.net/index.php?attachment/938-bandcamp-png/" alt="938-bandcamp-png"> </a></p>
 [[ nzb_hidden ]]
