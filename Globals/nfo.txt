@@ -1,1 +1,1 @@
-{@}<woltlab-spoiler data-label="NFO"><p>{{ [] nfo }</p></woltlab-spoiler>{$}
+{@}<woltlab-spoiler data-label="NFO"><p>{{ [] nfo }}</p></woltlab-spoiler>{$}
